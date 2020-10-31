@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="dialpad">DIALPAD</string>
+    <string name="gallery">GALLERY</string>
+    <string name="call_log">CALL LOG</string>
+    <string name="browser">BROWSER</string>
+    <string name="contact">CONTACT</string>
+    <string name="camera">CAMERA</string>
+    <string name="call">CALL</string>
+</resources>
